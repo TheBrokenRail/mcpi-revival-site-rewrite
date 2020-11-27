@@ -28,7 +28,7 @@ Minecraft: Pi Edition comes with a built-in scripting API, with clients in multi
 
 ## How is it related to MCPE?
 
-Minecraft Pi is related to Minecraft Pocket Edition, because the first is a "modified" and ported version of the second one, but they are **not** the same. For example, MCPI by default hasn't the Survival features enabled.
+Minecraft: Pi Edition is related to Minecraft: Pocket Edition, because the first is a "modified" and ported version of the second one, but they are **not** the same. For example, MCPI by default doesn't have the Survival features enabled.
 
 ## And what is this?
 
