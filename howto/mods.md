@@ -9,7 +9,7 @@ center: false
 ## Using The Launcher
 You will need to download and install the [launcher](https://github.com/MCPI-Devs/MCPIL), if you need help, read the [documentation](https://github.com/Alvarito050506/MCPIL#readme). There is a "Mods" tab in the launcher, if you want to install a mod, simply click the "Install" button and then select its file. If you want to delete an already installed mod, select it from the list and then click the "Delete" button. The mods should start every time you join a world, but this system (like any system) fails, so you can click the "Start mods" button if the mods didn't start at time:
 
-![MCPIL "Mods"]({{ "/" | relative_url }}/assets/img/mcpil_mods.png)
+![MCPIL "Mods"]({{ "/" | absolute_url }}/assets/img/mcpil_mods.png)
 
 ## Using MinecraftOven
 You will need to download [MinecraftOven](https://github.com/Restioson/MCO) and install it following the [documentation](https://github.com/Restioson/MCO#readme). Then, to install a mod, copy it to the MCO folder, and, to run it, execute MCO.
