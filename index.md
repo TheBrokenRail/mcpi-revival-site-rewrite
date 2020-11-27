@@ -18,7 +18,7 @@ center: true
 
 [MCPI-Docker](https://gitea.thebrokenrail.com/TheBrokenRail/minecraft-pi-docker)
 
-[https://github.com/MCPI-Devs](Other Tools)
+[Other Tools](https://github.com/MCPI-Devs)
 
 ## Technical
 [Scripting API Protocol Docs](https://wiki.vg/Minecraft_Pi_Protocol)

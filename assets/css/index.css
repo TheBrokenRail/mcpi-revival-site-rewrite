@@ -113,7 +113,7 @@ main a {
     font-weight: bold;
 }
 
-main p {
+main p, main div.highlight {
     margin-bottom: 0.5%;
 }
 
