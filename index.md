@@ -4,7 +4,7 @@ title: Home
 center: true
 ---
 
-**Welcome to the largest Minecraft Pi related library!**
+#### Welcome to the largest Minecraft Pi related library!
 
 ## Community
 [Wiki](https://minecraft.gamepedia.com/Pi_Edition)

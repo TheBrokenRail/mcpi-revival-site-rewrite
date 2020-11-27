@@ -39,8 +39,13 @@ body {
     background: #333333;
     color: #ffffff;
     text-align: center;
-    line-height: 15vh;
-    font-size: large;
+    position: relative;
+}
+.footer p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 main {
@@ -75,25 +80,27 @@ main {
     text-align: center;
     line-height: 8vh;
     text-decoration: none;
-    font-size: medium;
 }
 
-.align-right {
+ul.header-list {
+    width: auto;
+    list-style-type: none;
+}
+
+ul.header-list li {
     float: right;
-    margin-right: 1.5vw;
 }
 
-.align-left {
-    float: left;
-    margin-left: 1.5vw;
+ul.header-list li a {
+    margin-left: 0.75vw;
+    margin-right: 0.75vw;
 }
 
 .header-img {
     width: auto;
     height: 5vh;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .header-button:active {
@@ -101,27 +108,30 @@ main {
 }
 
 main a {
-    font-family: "minecraft_alt";
     color: #efe561;
     text-decoration: none;
+    font-weight: bold;
 }
 
 main p {
     margin-bottom: 0.5%;
 }
 
-main h3 {
-    color: #efe561;
+main h3, main ul, main ol {
     margin-bottom: 0.5%;
 }
+
 main h1, main h2 {
-    font-family: "minecraft_alt";
     margin-bottom: 0.5%;
     margin-top: 2%;
 }
 
-main strong {
+main h1 {
     font-family: "minecraft_alt";
+}
+
+.page > :first-child {
+    margin-top: 0 !important;
 }
 
 .title {
