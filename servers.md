@@ -29,5 +29,5 @@ center: false
 - **Software:** ``PocketMine-MP``
 
 ## Tutorials
-- [HowTo: Joining A Server](./howto/joining-servers.html)
-- [HowTo: Creating A Server](./howto/creating-servers.html)
+- [HowTo: Joining A Server]({{ site.url }}/howto/joining-servers.html)
+- [HowTo: Creating A Server]({{ site.url }}/howto/creating-servers.html)

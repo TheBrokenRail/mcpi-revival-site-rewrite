@@ -14,8 +14,8 @@ center: true
 }
 </style>
 
-![Creative Mode](./assets/img/screenshots/creative.png)
+![Creative Mode]({{ site.url }}/assets/img/screenshots/creative.png)
 
-![Survival Mode, Day](./assets/img/screenshots/survival_day.png)
+![Survival Mode, Day]({{ site.url }}/assets/img/screenshots/survival_day.png)
 
-![Survival Mode, Night](./assets/img/screenshots/survival_night.png)
+![Survival Mode, Night]({{ site.url }}/assets/img/screenshots/survival_night.png)
