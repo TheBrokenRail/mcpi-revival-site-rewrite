@@ -9,4 +9,4 @@ center: false
 
 <br />
 
-Do you need help using or installing a mod? Read our [HowTo]({{ site.github.url }}/howto/mods.html), and if the problem persists or you want more help, join us in [Discord]({{ site.github.url }}/discord.html).
+Do you need help using or installing a mod? Read our [HowTo]({{ "/" | relative_url }}/howto/mods.html), and if the problem persists or you want more help, join us in [Discord]({{ "/" | relative_url }}/discord.html).
