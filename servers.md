@@ -29,5 +29,5 @@ center: false
 - **Software:** ``PocketMine-MP``
 
 ## Tutorials
-- [HowTo: Joining A Server]({{ site.baseurl }}/howto/joining-servers.html)
-- [HowTo: Creating A Server]({{ site.baseurl }}/howto/creating-servers.html)
+- [HowTo: Joining A Server]({{ "/" | relative_url }}/howto/joining-servers.html)
+- [HowTo: Creating A Server]({{ "/" | relative_url }}/howto/creating-servers.html)
